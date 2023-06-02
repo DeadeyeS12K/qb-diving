@@ -1,4 +1,4 @@
--- Do not edit this dose all of the marker if you mes with it you will fuck it up. DrDeadeyeS12K
+-- Avoid editing, you will break the entire thing, and it is not not very fun to fix, but only at it is absolutely necessary DrDeadeyeS12K.
 
 
 Citizen.CreateThread(
